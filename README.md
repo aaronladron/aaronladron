@@ -1,13 +1,77 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>🎓 Étudiant à Epitech en 1ère année de Web Academie, je me forme en développement Full Stack avec une ambition claire : évoluer vers la cybersécurité, le domaine qui me passionne réellement.<br><br>🔐 Fasciné par la sécurité informatique, je m’intéresse particulièrement à la protection des systèmes, à l’analyse des vulnérabilités, au hacking éthique et à la compréhension des mécanismes d’attaque. Pour moi, coder ne consiste pas seulement à créer des applications, mais aussi à les rendre robustes, fiables et sécurisées.<br><br>💡 Mon objectif est de poursuivre après ces deux années vers un Master en cybersécurité, afin d’approfondir mes compétences en sécurité offensive et défensive, cryptographie et gestion des risques.<br><br>🚀 Curieux, déterminé et toujours en quête de progression, je cherche constamment à améliorer mes compétences techniques et à comprendre en profondeur le fonctionnement des systèmes et des réseaux.
+<h1 align="left">About me :</h1>
 
+###
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
-# 📊 💻:
-![](https://media1.tenor.com/m/GD9UKMwnxYIAAAAd/ngoding-mulu.gif)
+<p align="left">Hi, I’m Aaron Ladron<br><br>I’m currently a student at the Web@cadémie of Epitech, where I am training in Full Stack development with the goal of specializing in cybersecurity afterward, a field I am truly passionate about.<br><br>I’m highly interested in everything related to cybersecurity, infrastructure, DevOps/DevSecOps, networking, home automation, and self-hosted technologies. I enjoy understanding how systems work in depth, learning new technologies, and building reliable, optimized, and secure environments.<br><br>Beyond web development, I also spend a lot of time working on my personal homelab, which allows me to experiment with virtualization, monitoring, system administration, automation, and modern infrastructure technologies in a practical way.</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aaronladron&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="left">Code with :</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">Homelab :</h2>
+
+###
+
+<p align="left">I run a personal homelab to gain hands-on experience in infrastructure, virtualization, and system administration.<br><br>It serves as a real-world environment where I can go beyond theory and understand how systems behave in production-like conditions.<br><br>In this environment, I actively work on and experiment with:<br><br>virtualization and VM management using Proxmox<br>hosting and maintaining my own self-hosted services<br>deploying and managing internal web services and applications<br>containerizing workloads with Docker<br>infrastructure monitoring and system observability<br>Linux system administration and configuration<br>network management and service communication<br>automation of deployments and repetitive tasks<br>home automation (domotics), integrating and managing smart home systems<br><br>I use this setup as a practical learning platform to test, break, fix, and improve real systems. It helps me develop a deeper understanding of modern infrastructure, DevOps practices, self-hosted architectures, and foundational security concepts in real environments.</p>
+
+###
+
+<h2 align="left">Tools :</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+</div>
+
+###
+
+<h2 align="left">Activities :</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronladron/aaronladron/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaronladron/aaronladron/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aaronladron/aaronladron/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+###
