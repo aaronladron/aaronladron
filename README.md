@@ -68,10 +68,10 @@
 
 ###
 
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronladron/aaronladron/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaronladron/aaronladron/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aaronladron/aaronladron/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronladron/aaronladron/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaronladron/aaronladron/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aaronladron/aaronladron/pacman-output/galaga-contribution-graph.svg">
 </picture>
+
+###
