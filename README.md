@@ -76,13 +76,3 @@
 
 ###
 
----
-
-## 📊 Github Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzogagg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=enzogagg&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D) <br/>
-
----
-
-## 🏆 Github Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=enzogagg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
