@@ -30,15 +30,6 @@
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h2 align="left">FiveM development :</h2>
-
-###
-
-<div align="left">
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="40" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
@@ -47,6 +38,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mariadb/003545" height="40" alt="mariadb logo"  />
 </div>
+
+###
 
 <h2 align="left">Homelab :</h2>
 
