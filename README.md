@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I’m Aaron Ladron<br><br>I’m currently a student at the Web@cadémie of Epitech, where I am training in Full Stack development with the goal of specializing in cybersecurity afterward, a field I am truly passionate about.<br><br>I’m highly interested in everything related to cybersecurity, infrastructure, DevOps/DevSecOps, networking, home automation, and self-hosted technologies. I enjoy understanding how systems work in depth, learning new technologies, and building reliable, optimized, and secure environments.<br><br>Beyond web development, I also spend a lot of time working on my personal homelab, which allows me to experiment with virtualization, monitoring, system administration, automation, and modern infrastructure technologies in a practical way.</p>
+<p align="left">Hi, I’m Aaron Ladron<br><br>I’m currently a student at Epitech, where I am training in Full Stack development with the goal of specializing in cybersecurity afterward, a field I am truly passionate about.<br><br>I’m highly interested in everything related to cybersecurity, infrastructure, DevOps/DevSecOps, networking, home automation, and self-hosted technologies. I enjoy understanding how systems work in depth, learning new technologies, and building reliable, optimized, and secure environments.<br><br>Beyond web development, I also spend a lot of time working on my personal homelab, which allows me to experiment with virtualization, monitoring, system administration, automation, and modern infrastructure technologies in a practical way.</p>
 
 ###
 
